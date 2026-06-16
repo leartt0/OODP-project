@@ -1,0 +1,16 @@
+{
+  "name": "weeatz-oodp",
+  "version": "1.0.0",
+  "description": "weEatz — Online Food Delivery System for Prishtina (OODP project)",
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "demo": "tsx src/index.ts",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.0",
+    "tsx": "^4.19.4",
+    "typescript": "^5.8.3"
+  }
+}
